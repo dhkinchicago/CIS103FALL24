@@ -3,4 +3,5 @@ CIS 103 Fall 24
 ##  First Class
 
 **assignment 1**
-send me an e-amil
+
+send me an e-mail
